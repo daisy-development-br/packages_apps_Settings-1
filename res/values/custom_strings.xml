@@ -53,8 +53,10 @@
     <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
 
     <!-- Lockscreen media art -->
+    <string name="media_art_options_title">Lockscreen media options</string>
     <string name="keygaurd_media_art_title">Media art</string>
     <string name="keygaurd_media_art_summary">Display media art as lockscreen background</string>
+    <string name="lockscreen_media_blur_title">Media art blur level</string>
 </resources>
 
 
