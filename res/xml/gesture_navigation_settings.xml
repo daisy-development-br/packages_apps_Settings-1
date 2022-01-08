@@ -64,5 +64,11 @@
         android:title="@string/back_sensitivity_dialog_message"
         android:selectable="false"
         settings:searchable="false"/>
+
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="fullscreen_gestures"
+        android:title="@string/fullscreen_gestures_title"
+        android:summary="@string/fullscreen_gestures_summary"
+        android:defaultValue="false" />
 </PreferenceScreen>
 
